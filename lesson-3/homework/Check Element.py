@@ -7,3 +7,7 @@ from linecache import checkcache
 
 data = ["triangle",  "square", "best", "function"]
 print(("b", data))
+     
+
+
+ 
